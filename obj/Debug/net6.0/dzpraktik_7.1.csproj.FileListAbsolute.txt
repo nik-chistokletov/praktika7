@@ -1,0 +1,15 @@
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\bin\Debug\net6.0\dzpraktik_7.1.exe
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\bin\Debug\net6.0\dzpraktik_7.1.deps.json
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\bin\Debug\net6.0\dzpraktik_7.1.runtimeconfig.json
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\bin\Debug\net6.0\dzpraktik_7.1.dll
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\bin\Debug\net6.0\dzpraktik_7.1.pdb
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.csproj.AssemblyReference.cache
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.AssemblyInfoInputs.cache
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.AssemblyInfo.cs
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.csproj.CoreCompileInputs.cache
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.dll
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\refint\dzpraktik_7.1.dll
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.pdb
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\dzpraktik_7.1.genruntimeconfig.cache
+C:\Users\колек\Desktop\учеба\с#(сишарп)\dzpraktik_7.1\obj\Debug\net6.0\ref\dzpraktik_7.1.dll
